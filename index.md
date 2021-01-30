@@ -7,7 +7,7 @@
 
 ### Books
 
-1. [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12_toc.pdf) (Springer Series in Statistics) 2nd Editio
+1. [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12_toc.pdf) (Springer Series in Statistics) 2nd Edition
 
 
 

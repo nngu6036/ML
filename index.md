@@ -5,7 +5,12 @@
 
 1. [Mathematics for Machine Learning by Imperial College London on Coursera](https://www.coursera.org/account/accomplishments/specialization/2QY6YTR8F3V9), Jan 2021
 
-## Header 2
+### Books
+
+1. [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12_toc.pdf) (Springer Series in Statistics) 2nd Editio
+
+
+
 ### Header 3
 
 - Bulleted

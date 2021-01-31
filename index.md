@@ -13,13 +13,14 @@
 ### PhD Advices
 
 1. [A Guide to Machine Learning PhDs](https://blog.ycombinator.com/a-guide-to-machine-learning-phds/)
-
+2. [Machine Learning PhD](https://80000hours.org/career-reviews/machine-learning-phd/)
 
 
 ### Links
 
 - https://truyentran.github.io/phd.html
 - https://truyentran.github.io/repLearn.html
+- https://80000hours.org/articles/ai-safety-syllabus/#reading-list
 
 
 

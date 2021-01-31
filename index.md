@@ -15,6 +15,11 @@
 1. [A Guide to Machine Learning PhDs](https://blog.ycombinator.com/a-guide-to-machine-learning-phds/)
 2. [Machine Learning PhD](https://80000hours.org/career-reviews/machine-learning-phd/)
 
+### Deep Learning
+- https://github.com/ChristosChristofidis/awesome-deep-learning
+
+### Reinforcement Learning
+- https://github.com/aikorea/awesome-rl#papers--thesis
 
 ### Links
 

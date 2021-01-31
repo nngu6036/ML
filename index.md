@@ -10,6 +10,11 @@
 1. [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12_toc.pdf) (Springer Series in Statistics) 2nd Edition
 2. [Mathematics for Machine Learning](https://mml-book.github.io/), Cambridge University Press, 2018
 
+### PhD Advices
+
+1. [A Guide to Machine Learning PhDs](https://blog.ycombinator.com/a-guide-to-machine-learning-phds/)
+
+
 
 ### Links
 

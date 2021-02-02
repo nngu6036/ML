@@ -11,6 +11,9 @@
 2. [Mathematics for Machine Learning](https://mml-book.github.io/), Cambridge University Press, 2018
 3. [Python for Data Analysis](https://drive.google.com/file/d/1lQsm_jsIvVFtK9h8BvFgcydIDsaKf_t0/view?usp=sharing),by Wes McKinney (O’Reilly). Copyright 2017 
 4. [Richard Sutton and Andrew Barto, Reinforcement Learning: An Introduction](http://incompleteideas.net/book/RLbook2018.pdf) (2nd Edition, in progress, 2018)
+5. [All of Statistics](https://www.ic.unicamp.br/~wainer/cursos/1s2013/ml/livro.pdf), Larry Wasserman
+6. [Probability: Theory and Examples](https://www.ic.unicamp.br/~wainer/cursos/1s2013/ml/livro.pdf), Rick Durrett
+
 
 ### PhD Advices
 

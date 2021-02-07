@@ -29,6 +29,8 @@
 ### Tools
 - [Data Preparation Notebook](https://github.com/nngu6036/ML/blob/master/Handbook%20of%20Machine%20Learning/Housing.ipynb)
 - [Getting Started with Hyper-parameter Optimization Notebook](https://www.kaggle.com/pashupatigupta/getting-started-with-hyper-parameter-optimization)
+- [Test and Train SVM](https://www.kaggle.com/vahidehdashti/test-train-evaluation-iris-svm)
+
 
 ### Competitions
 - [Kaggle](https://www.kaggle.com/competitions)

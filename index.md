@@ -28,6 +28,7 @@
 
 ### Tools
 - [Data Preparation Notebook](https://github.com/nngu6036/ML/blob/master/Handbook%20of%20Machine%20Learning/Housing.ipynb)
+- [Getting Started with Hyper-parameter Optimization]https://www.kaggle.com/pashupatigupta/getting-started-with-hyper-parameter-optimization
 
 ### Competitions
 - [Kaggle](https://www.kaggle.com/competitions)

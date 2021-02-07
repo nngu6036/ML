@@ -26,6 +26,12 @@
 ### Reinforcement Learning
 - https://github.com/aikorea/awesome-rl#papers--thesis
 
+### Tools
+- [Data Preparation Notebook](https://github.com/nngu6036/ML/blob/master/Handbook%20of%20Machine%20Learning/Housing.ipynb)
+
+### Competitions
+- [Kaggle](https://www.kaggle.com/competitions)
+
 ### Links
 
 - https://truyentran.github.io/phd.html

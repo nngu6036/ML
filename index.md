@@ -27,8 +27,9 @@
 - https://github.com/aikorea/awesome-rl#papers--thesis
 
 ### Tools
-- [Data Preparation Notebook](https://github.com/nngu6036/ML/blob/master/Handbook%20of%20Machine%20Learning/Housing.ipynb)
-- [Getting Started with Hyper-parameter Optimization](https://www.kaggle.com/pashupatigupta/getting-started-with-hyper-parameter-optimization)
+- [Data Preparation Notebook](https://mybinder.org/v2/gh/nngu6036/ML/gh-pages?urlpath=https%3A%2F%2Fgithub.com%2Fnngu6036%2FML%2Fblob%2Fgh-pages%2FHandbook%2520of%2520Machine%2520Learning%2FHousing.ipynb
+)
+- [Getting Started with Hyper-parameter Optimization Notebook](https://www.kaggle.com/pashupatigupta/getting-started-with-hyper-parameter-optimization)
 
 ### Competitions
 - [Kaggle](https://www.kaggle.com/competitions)

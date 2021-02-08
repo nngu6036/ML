@@ -36,6 +36,10 @@
 ### Competitions
 - [Kaggle](https://www.kaggle.com/competitions)
 
+### Algorithm
+- https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db
+
+
 ### Links
 
 - https://truyentran.github.io/phd.html

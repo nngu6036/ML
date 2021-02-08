@@ -13,7 +13,8 @@
 4. [Richard Sutton and Andrew Barto, Reinforcement Learning: An Introduction](http://incompleteideas.net/book/RLbook2018.pdf) (2nd Edition, in progress, 2018)
 5. [All of Statistics](https://www.ic.unicamp.br/~wainer/cursos/1s2013/ml/livro.pdf), Larry Wasserman
 6. [Probability: Theory and Examples](https://www.ic.unicamp.br/~wainer/cursos/1s2013/ml/livro.pdf), Rick Durrett
-
+7. [Introduction to Machine Learning with Python: A Guide for Data Scientists 1st Edition
+](https://github.com/nngu6036/ML/blob/master/Introduction%20to%20Machine%20Learning%20with%20Python%20(%20PDFDrive%20)-min.pdf)
 
 ### PhD Advices
 

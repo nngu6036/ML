@@ -36,6 +36,7 @@
 ### Competitions
 - [Kaggle](https://www.kaggle.com/competitions)
 - [Nettlix Prize](https://www.netflixprize.com/index.html)
+- [Prevail Competitions](https://mlcontests.com/)
 
 ### Algorithm
 - https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db

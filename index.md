@@ -14,7 +14,8 @@
 5. [All of Statistics](https://www.ic.unicamp.br/~wainer/cursos/1s2013/ml/livro.pdf), Larry Wasserman
 6. [Probability: Theory and Examples](https://www.ic.unicamp.br/~wainer/cursos/1s2013/ml/livro.pdf), Rick Durrett
 7. [Introduction to Machine Learning with Python: A Guide for Data Scientists 1st Edition
-](https://github.com/nngu6036/ML/blob/master/Introduction%20to%20Machine%20Learning%20with%20Python%20(%20PDFDrive%20)-min.pdf)
+](https://github.com/nngu6036/ML/blob/master/Introduction%20to%20Machine%20Learning%20with%20Python%20(%20PDFDrive%20)-min.pdf
+8. [Machine Learning Rules](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 
 ### PhD Advices
 

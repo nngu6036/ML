@@ -5,7 +5,7 @@
 
 1. [Mathematics for Machine Learning by Imperial College London on Coursera](https://www.coursera.org/account/accomplishments/specialization/2QY6YTR8F3V9), Jan 2021
 
-### Books
+### Readings
 
 1. [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12_toc.pdf) (Springer Series in Statistics) 2nd Edition
 2. [Mathematics for Machine Learning](https://mml-book.github.io/), Cambridge University Press, 2018
@@ -16,6 +16,7 @@
 7. [Introduction to Machine Learning with Python: A Guide for Data Scientists 1st Edition
 ](https://github.com/nngu6036/ML/blob/master/Introduction%20to%20Machine%20Learning%20with%20Python%20(%20PDFDrive%20)-min.pdf
 8. [Machine Learning Rules](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
+9. [Practicel Guide to Controlled Experiments](https://ai.stanford.edu/~ronnyk/2007GuideControlledExperiments.pdf)
 
 ### PhD Advices
 

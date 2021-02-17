@@ -51,6 +51,3 @@
 - https://drive.google.com/drive/folders/1vfGV2fyCapG7DPDZCJ2dnG930sW6r7DX
 - https://ai.googleblog.com/
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-

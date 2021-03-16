@@ -16,7 +16,7 @@
 7. [Introduction to Machine Learning with Python](https://github.com/nngu6036/ML/blob/master/Introduction%20to%20Machine%20Learning%20with%20Python%20(%20PDFDrive%20)-min.pdf)
 8. [Machine Learning Rules](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 9. [Practicel Guide to Controlled Experiments](https://ai.stanford.edu/~ronnyk/2007GuideControlledExperiments.pdf)
-10. [Develop Macine Learning Model] (https://towardsdatascience.com/machine-learning-general-process-8f1b510bd8af)
+10. [Develop Macine Learning Model](https://towardsdatascience.com/machine-learning-general-process-8f1b510bd8af)
 
 ### PhD Advices
 

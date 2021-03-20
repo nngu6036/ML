@@ -52,3 +52,6 @@
 - https://drive.google.com/drive/folders/1vfGV2fyCapG7DPDZCJ2dnG930sW6r7DX
 - https://ai.googleblog.com/
 
+## Exams
+- https://cloud.google.com/certification/machine-learning-engineer
+- https://www.tensorflow.org/resources/tools

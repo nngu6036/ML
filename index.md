@@ -3,7 +3,8 @@
 ### Onine Courses
 
 
-1. [Mathematics for Machine Learning by Imperial College London on Coursera](https://www.coursera.org/account/accomplishments/specialization/2QY6YTR8F3V9), Jan 2021
+1. [Mathematics for Machine Learning Specialization by Imperial College London on Coursera](https://www.coursera.org/account/accomplishments/specialization/2QY6YTR8F3V9), Jan 2021
+2. [Applied Data Science with Python Specialization by University of Michigan on Coursera. ](https://www.coursera.org/account/accomplishments/specialization/PVWQT2SKQQUF), Mar 2021
 
 ### Readings
 

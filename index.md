@@ -35,6 +35,7 @@
 - [Getting Started with Hyper-parameter Optimization Notebook](https://www.kaggle.com/pashupatigupta/getting-started-with-hyper-parameter-optimization)
 - [Test and Train SVM](https://www.kaggle.com/vahidehdashti/test-train-evaluation-iris-svm)
 - [WordNet](http://www.nltk.org/howto/wordnet.html)
+- [Pre-trained Tensorflow Model](https://github.com/tensorflow/tfjs-models)
 
 ### Competitions
 - [Kaggle](https://www.kaggle.com/competitions)

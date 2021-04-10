@@ -36,6 +36,7 @@
 - [Test and Train SVM](https://www.kaggle.com/vahidehdashti/test-train-evaluation-iris-svm)
 - [WordNet](http://www.nltk.org/howto/wordnet.html)
 - [Pre-trained Tensorflow Model](https://github.com/tensorflow/tfjs-models)
+- [TensorFlow sample apps](https://www.tensorflow.org/lite/examples/)
 
 ### Competitions
 - [Kaggle](https://www.kaggle.com/competitions)

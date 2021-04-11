@@ -6,6 +6,13 @@
 1. [Mathematics for Machine Learning Specialization by Imperial College London on Coursera](https://www.coursera.org/account/accomplishments/specialization/2QY6YTR8F3V9), Jan 2021
 2. [Applied Data Science with Python Specialization by University of Michigan on Coursera. ](https://www.coursera.org/account/accomplishments/specialization/PVWQT2SKQQUF), Mar 2021
 
+
+Learning Path
+- https://www.coursera.org/professional-certificates/tensorflow-in-practice#courses
+- https://fall2019.fullstackdeeplearning.com/#who-is-this-for
+- https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs
+- https://www.coursera.org/specializations/tensorflow-advanced-techniques#courses
+
 ### Readings
 
 1. [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12_toc.pdf) (Springer Series in Statistics) 2nd Edition

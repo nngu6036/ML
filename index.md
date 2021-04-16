@@ -65,3 +65,6 @@ Learning Path
 ## Exams
 - https://cloud.google.com/certification/machine-learning-engineer
 - https://www.tensorflow.org/resources/tools
+
+## Data Structure and Algorithm
+- https://450dsa.com/array

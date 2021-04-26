@@ -56,6 +56,9 @@ Learning Path
 - ]Decision Making](https://algorithmsbook.com/)
 - [Optimization](https://algorithmsbook.com/optimization/)
 
+## Hands-on Project
+- https://towardsdatascience.com/top-9-data-science-projects-for-a-beginner-in-2020-26eb7d42b116
+
 ### Links
 
 - https://truyentran.github.io/phd.html

@@ -66,6 +66,7 @@ Learning Path
 - https://80000hours.org/articles/ai-safety-syllabus/#reading-list
 - https://drive.google.com/drive/folders/1vfGV2fyCapG7DPDZCJ2dnG930sW6r7DX
 - https://ai.googleblog.com/
+- https://towardsdatascience.com/benchmarking-categorical-encoders-9c322bd77ee8
 
 ## Exams
 - https://cloud.google.com/certification/machine-learning-engineer

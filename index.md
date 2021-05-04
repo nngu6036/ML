@@ -3,9 +3,17 @@
 ### Onine Courses
 
 
-1. [Mathematics for Machine Learning by Imperial College London on Coursera](https://www.coursera.org/account/accomplishments/specialization/2QY6YTR8F3V9), Jan 2021
+1. [Mathematics for Machine Learning Specialization by Imperial College London on Coursera](https://www.coursera.org/account/accomplishments/specialization/2QY6YTR8F3V9), Jan 2021
+2. [Applied Data Science with Python Specialization by University of Michigan on Coursera. ](https://www.coursera.org/account/accomplishments/specialization/PVWQT2SKQQUF), Mar 2021
 
-### Books
+
+Learning Path
+- https://www.coursera.org/professional-certificates/tensorflow-in-practice#courses
+- https://fall2019.fullstackdeeplearning.com/#who-is-this-for
+- https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs
+- https://www.coursera.org/specializations/tensorflow-advanced-techniques#courses
+
+### Readings
 
 1. [The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12_toc.pdf) (Springer Series in Statistics) 2nd Edition
 2. [Mathematics for Machine Learning](https://mml-book.github.io/), Cambridge University Press, 2018
@@ -13,8 +21,10 @@
 4. [Richard Sutton and Andrew Barto, Reinforcement Learning: An Introduction](http://incompleteideas.net/book/RLbook2018.pdf) (2nd Edition, in progress, 2018)
 5. [All of Statistics](https://www.ic.unicamp.br/~wainer/cursos/1s2013/ml/livro.pdf), Larry Wasserman
 6. [Probability: Theory and Examples](https://www.ic.unicamp.br/~wainer/cursos/1s2013/ml/livro.pdf), Rick Durrett
-7. [Introduction to Machine Learning with Python: A Guide for Data Scientists 1st Edition
-](https://github.com/nngu6036/ML/blob/master/Introduction%20to%20Machine%20Learning%20with%20Python%20(%20PDFDrive%20)-min.pdf)
+7. [Introduction to Machine Learning with Python](https://github.com/nngu6036/ML/blob/master/Introduction%20to%20Machine%20Learning%20with%20Python%20(%20PDFDrive%20)-min.pdf)
+8. [Machine Learning Rules](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
+9. [Practicel Guide to Controlled Experiments](https://ai.stanford.edu/~ronnyk/2007GuideControlledExperiments.pdf)
+10. [Develop Macine Learning Model](https://towardsdatascience.com/machine-learning-general-process-8f1b510bd8af)
 
 ### PhD Advices
 
@@ -28,21 +38,40 @@
 - https://github.com/aikorea/awesome-rl#papers--thesis
 
 ### Tools
-- [Data Preparation Notebook](https://github.com/nngu6036/ML/blob/master/Handbook%20of%20Machine%20Learning/Housing.ipynb)
+- [Hands-on Machine Learning](https://github.com/ageron/handson-ml2)
 - [Getting Started with Hyper-parameter Optimization Notebook](https://www.kaggle.com/pashupatigupta/getting-started-with-hyper-parameter-optimization)
 - [Test and Train SVM](https://www.kaggle.com/vahidehdashti/test-train-evaluation-iris-svm)
-
+- [WordNet](http://www.nltk.org/howto/wordnet.html)
+- [Pre-trained Tensorflow Model](https://github.com/tensorflow/tfjs-models)
+- [TensorFlow sample apps](https://www.tensorflow.org/lite/examples/)
 
 ### Competitions
 - [Kaggle](https://www.kaggle.com/competitions)
+- [Nettlix Prize](https://www.netflixprize.com/index.html)
+- [Prevail Competitions](https://mlcontests.com/)
+
+### Algorithm
+- [Comparision between Ensemble](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
+- [Clustering algorithms](https://www.freecodecamp.org/news/how-machines-make-sense-of-big-data-an-introduction-to-clustering-algorithms-4bd97d4fbaba/)
+- [Decision Making](https://algorithmsbook.com/)
+- [Optimization](https://algorithmsbook.com/optimization/)
+- https://towardsdatascience.com/17-clustering-algorithms-used-in-data-science-mining-49dbfa5bf69a
+
+## Hands-on Project
+- https://towardsdatascience.com/top-9-data-science-projects-for-a-beginner-in-2020-26eb7d42b116
 
 ### Links
 
 - https://truyentran.github.io/phd.html
 - https://truyentran.github.io/repLearn.html
 - https://80000hours.org/articles/ai-safety-syllabus/#reading-list
+- https://drive.google.com/drive/folders/1vfGV2fyCapG7DPDZCJ2dnG930sW6r7DX
+- https://ai.googleblog.com/
+- https://towardsdatascience.com/benchmarking-categorical-encoders-9c322bd77ee8
 
+## Exams
+- https://cloud.google.com/certification/machine-learning-engineer
+- https://www.tensorflow.org/resources/tools
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
+## Data Structure and Algorithm
+- https://450dsa.com/array

@@ -56,6 +56,7 @@ Learning Path
 - [Decision Making](https://algorithmsbook.com/)
 - [Optimization](https://algorithmsbook.com/optimization/)
 - https://towardsdatascience.com/17-clustering-algorithms-used-in-data-science-mining-49dbfa5bf69a
+- https://arxiv.org/pdf/2101.08809.pdf
 
 ## Hands-on Project
 - https://towardsdatascience.com/top-9-data-science-projects-for-a-beginner-in-2020-26eb7d42b116

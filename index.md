@@ -12,6 +12,7 @@ Learning Path
 - https://fall2019.fullstackdeeplearning.com/#who-is-this-for
 - https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs
 - https://www.coursera.org/specializations/tensorflow-advanced-techniques#courses
+- https://grow.google/intl/ALL_au/guide-ai-machine-learning/
 
 ### Readings
 

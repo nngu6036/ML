@@ -26,6 +26,7 @@ Learning Path
 8. [Machine Learning Rules](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 9. [Practicel Guide to Controlled Experiments](https://ai.stanford.edu/~ronnyk/2007GuideControlledExperiments.pdf)
 10. [Develop Macine Learning Model](https://towardsdatascience.com/machine-learning-general-process-8f1b510bd8af)
+11. https://www.cs.upc.edu/~robert/teaching/estadistica/rprogramming.pdf
 
 ### PhD Advices
 

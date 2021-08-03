@@ -63,6 +63,7 @@ Learning Path
 
 ## Hands-on Project
 - https://towardsdatascience.com/top-9-data-science-projects-for-a-beginner-in-2020-26eb7d42b116
+- https://towardsdatascience.com/series-of-projects-on-data-science-and-data-analytics-in-both-python-and-r-76db3fea9b7e
 
 ### Links
 
@@ -72,6 +73,9 @@ Learning Path
 - https://drive.google.com/drive/folders/1vfGV2fyCapG7DPDZCJ2dnG930sW6r7DX
 - https://ai.googleblog.com/
 - https://towardsdatascience.com/benchmarking-categorical-encoders-9c322bd77ee8
+- https://towardsdatascience.com/beginners-guide-to-xgboost-for-classification-problems-50f75aac5390
+- https://towardsdatascience.com/6-things-i-do-to-consistently-improve-my-machine-learning-models-36cd87aaf9fd
+- https://medium.com/analytics-vidhya/complete-machine-learning-roadmap-for-data-science-and-ai-b760db8738c5
 
 ## Exams
 - https://cloud.google.com/certification/machine-learning-engineer

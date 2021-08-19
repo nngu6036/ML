@@ -28,6 +28,7 @@ Learning Path
 10. [Develop Macine Learning Model](https://towardsdatascience.com/machine-learning-general-process-8f1b510bd8af)
 11. [R Programming](https://www.cs.upc.edu/~robert/teaching/estadistica/rprogramming.pdf)
 12. [The Art of Data Science](http://bedford-computing.co.uk/learning/wp-content/uploads/2016/09/artofdatascience.pdf)
+13. [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ### PhD Advices
 

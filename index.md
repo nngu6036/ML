@@ -13,6 +13,7 @@ Learning Path
 - https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs
 - https://www.coursera.org/specializations/tensorflow-advanced-techniques#courses
 - https://grow.google/intl/ALL_au/guide-ai-machine-learning/
+- https://towardsdatascience.com/recreating-an-ml-masters-degree-with-online-courses-8f90a7088cf8
 
 ### Readings
 

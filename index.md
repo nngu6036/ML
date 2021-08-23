@@ -66,6 +66,7 @@ Learning Path
 ## Hands-on Project
 - https://towardsdatascience.com/top-9-data-science-projects-for-a-beginner-in-2020-26eb7d42b116
 - https://towardsdatascience.com/series-of-projects-on-data-science-and-data-analytics-in-both-python-and-r-76db3fea9b7e
+- https://medium.com/projectpro/20-machine-learning-projects-that-will-get-you-hired-in-2021-a89473f2d2c7
 
 ### Links
 

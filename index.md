@@ -30,6 +30,7 @@ Learning Path
 11. [R Programming](https://www.cs.upc.edu/~robert/teaching/estadistica/rprogramming.pdf)
 12. [The Art of Data Science](http://bedford-computing.co.uk/learning/wp-content/uploads/2016/09/artofdatascience.pdf)
 13. [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+14. Data Science from Scratch for Python
 
 ### PhD Advices
 
